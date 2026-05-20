@@ -71,7 +71,7 @@ Follow these steps to configure your environment and run the API locally:
 ### 1. Environment Configuration
 Create a file named `.env` in the project's root directory and add your configuration keys:
 ```env
-PORT=3000
+PORT=8000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET_KEY=your_secret_cryptographic_signing_key
 ```
